@@ -1,2 +1,2 @@
 # RUSH-2
-Program that writes shapes onto standard output based on input parameters
+Analysis shapes written to standard output and determines the set of RUSH parameters
